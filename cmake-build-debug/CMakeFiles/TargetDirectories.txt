@@ -1,0 +1,3 @@
+D:/School/JTK 16/Smt.5/Komputer Grafik/CG_UAS/cmake-build-debug/CMakeFiles/demo.dir
+D:/School/JTK 16/Smt.5/Komputer Grafik/CG_UAS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/School/JTK 16/Smt.5/Komputer Grafik/CG_UAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

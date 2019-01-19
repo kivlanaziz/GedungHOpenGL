@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/freeglut/include/GL/freeglut_std.h
+windows.h
+-
+EGL/egl.h
+-
+GLES/gl.h
+-
+GLES2/gl2.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdlib.h
+-
+
+C:/freeglut/include/GL/glut.h
+freeglut_std.h
+C:/freeglut/include/GL/freeglut_std.h
+
+D:/School/JTK 16/Smt.5/Komputer Grafik/CG_UAS/imageloader.h
+
+D:/School/JTK 16/Smt.5/Komputer Grafik/CG_UAS/main.cpp
+GLUT/glut.h
+-
+iostream
+-
+Math.h
+-
+GL/glut.h
+-
+Math.h
+-
+stdio.h
+-
+imageloader.h
+D:/School/JTK 16/Smt.5/Komputer Grafik/CG_UAS/imageloader.h
+

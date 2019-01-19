@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CG_UAS.dir/objects.a
+C:\PROGRA~1\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\CG_UAS.dir/objects.a @CMakeFiles\CG_UAS.dir\objects1.rsp
+C:\PROGRA~1\Dev-Cpp\MinGW64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\CG_UAS.dir/objects.a -Wl,--no-whole-archive  -o CG_UAS.exe -Wl,--out-implib,libCG_UAS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CG_UAS.dir\linklibs.rsp
